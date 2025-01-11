@@ -33,7 +33,11 @@ To run this project locally, follow these steps:
 ## Screenshots
 
 ![Splash screen](assets/screenshots/splash_screen.png)
+
+
 ![Home screen](assets/screenshots/home.png)
+
+
 ![Movie Details](assets/screenshots/movie_details.png)
 
 
