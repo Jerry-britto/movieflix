@@ -15,7 +15,7 @@ To run this project locally, follow these steps:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-repo/movie-flix.git
+   git clone https://github.com/Jerry-britto/movieflix.git
    ```
 2. **Navigate to the Project Directory**:
    ```bash
